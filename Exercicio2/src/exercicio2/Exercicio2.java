@@ -22,13 +22,13 @@ public class Exercicio2 {
         while (res > 0) {
             System.out.println("Enter with a number: ");
             res = sc.nextInt();
-            if (verificaPrimo(res)) {
+            if (primeNumber(res)) {
                 System.out.println(res + " is a prime number.");
             }
         }
     }
 
-    public static boolean verificaPrimo(int number) {
+    public static boolean primeNumber(int number) {
         int primeNumber = 0;
         for (int i = 1; i <= number; i++) {
             if (number % i == 0) {
