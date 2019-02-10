@@ -2,7 +2,7 @@
 Lista de exercícios resolvidos, matéria: Estrutura de dados
 
 <p align="center">
-  <img src="https://imgur.com/9a1995e8-9f0f-4d1e-a548-d618d4e420d5" width="350" title="hover text">
+  <img src="https://i.imgur.com/Hxw3vdY.png" width="350" title="hover text">
 </p>
 
 ![alt text](https://imgur.com/9a1995e8-9f0f-4d1e-a548-d618d4e420d5)
